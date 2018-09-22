@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f12c0502bb5bbe1448cd63b745f4712b
+timeCreated: 1526400899
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beer Cape__G
+  fontNames:
+  - Beer Cape__G
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

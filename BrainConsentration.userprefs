@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CheakColor.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheakColor.cs" Line="53" Column="2" />
+      <File FileName="Assets\Scripts\SceneChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExitApp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovingArrows.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangePanelColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GarbageCollector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playercontroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyWithDelay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFXCtrl.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

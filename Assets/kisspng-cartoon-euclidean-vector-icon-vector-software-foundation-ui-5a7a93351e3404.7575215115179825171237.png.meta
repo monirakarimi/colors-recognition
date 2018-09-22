@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 50b542506f385604ca9ce56f78059e6a
+timeCreated: 1533990976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_0
+    21300002: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_1
+    21300004: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_2
+    21300006: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_3
+    21300008: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_4
+    21300010: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_5
+    21300012: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_6
+    21300014: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_7
+    21300016: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_8
+    21300018: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_9
+    21300020: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_10
+    21300022: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_11
+    21300024: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_12
+    21300026: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_13
+    21300028: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_14
+    21300030: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_15
+    21300032: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_16
+    21300034: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_17
+    21300036: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_18
+    21300038: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_19
+    21300040: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_20
+    21300042: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_21
+    21300044: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_22
+    21300046: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_23
+    21300048: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_24
+    21300050: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_25
+    21300052: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_26
+    21300054: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_27
+    21300056: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_28
+    21300058: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_29
+    21300060: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_30
+    21300062: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_31
+    21300064: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_32
+    21300066: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_33
+    21300068: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_34
+    21300070: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_35
+    21300072: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_36
+    21300074: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_37
+    21300076: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_38
+    21300078: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_39
+    21300080: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_40
+    21300082: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 751
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 568
+        width: 131
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 568
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 568
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 568
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 568
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 425
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 425
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 425
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 425
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 425
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 287
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 287
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_16
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 287
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 287
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 135
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_21
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 235
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 135
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 216
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 198
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_25
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 198
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 180
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_27
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 180
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 180
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 162
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 162
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 162
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_32
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 135
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 25
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 30
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 59
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_40
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 58
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kisspng-cartoon-euclidean-vector-icon-vector-software-foundation-ui-5a7a93351e3404.7575215115179825171237_41
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
